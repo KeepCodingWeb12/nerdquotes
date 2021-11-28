@@ -139,6 +139,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> No me chilles que no te veo
+
+* Dos que no estaban muy compensandos
+
+--------
+
 > git reset --hard working-world-pre-covid19-tests
 
 *Científico Anónimo. - Wuhan*
